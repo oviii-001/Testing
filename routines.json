@@ -7327,15 +7327,6 @@
     },
     {
         "day": "Thursday",
-        "time": "09:50 AM - 10:40 AM",
-        "room": "713",
-        "courseCode": "PHY101",
-        "teacherInitial": "JB",
-        "batch": "43",
-        "section": "N"
-    },
-    {
-        "day": "Thursday",
         "time": "10:40 AM - 11:30 AM",
         "room": "713",
         "courseCode": "MAT101",
